@@ -30,6 +30,7 @@ end
 def fizzbuzz(num)
   if num % @div[0] == 0
     @name[0]
+  # and elsifs through both entire arrays? ew...
   else
     num
   end
