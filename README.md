@@ -8,7 +8,7 @@ Now create a new solution that is extensible:
 
 Our users request that numbers that are multiples of seven will result in a "Sivv". Actually, they have a list of 30 other numbers they'd like this program to handle. 
 
------------
+...
 
 1: First task was straightforward, using if, elsif statements. Shortened the 3 and 5 condition at the expense of clarity.
 
